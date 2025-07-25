@@ -1,50 +1,121 @@
-# Welcome to your Expo app 👋
+# Food Recipe App Mobile Portfolio 📱🍳🥗
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Project Description 🚀
 
-## Get started
+"Food Recipe" is a mobile app built with React Native. Users can share and discover a variety of recipes, creating a community-driven platform for culinary enthusiasts on the go. Whether you're looking to try new dishes or showcase your own creations, Food Recipe App Mobile has got you covered!
 
-1. Install dependencies
+## Technologies Used 💻🛠️
 
-   ```bash
-   npm install
-   ```
+The Food Recipe App Mobile project is built using the following technologies:
 
-2. Start the app
+- JavaScript
+- React Native
+- Redux (State management)
+- React Navigation (Navigation library for React Native)
+- Express (Backend framework)
+- Node.Js (JavaScript runtime)
 
-   ```bash
-   npx expo start
-   ```
+## Project Repository 📂🔗
 
-In the output, you'll find options to open the app in a
+The frontend repository for this project can be found on GitHub at the following link:
+[Food Recipe Frontend Repository](https://github.com/IrhamNfrnda/food-recipe-fe-react)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+The backend repository for this project can be found on GitHub at the following link:
+[Food Recipe Backend Repository](https://github.com/IrhamNfrnda/food-recipe-be)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+The Android Application for this project can be found on GitHub at the following link:
+[Food Recipe Application](https://github.com/IrhamNfrnda/Food-Recipe-App/releases)
 
-## Get a fresh project
+## Features ✨🍔🍰
 
-When you're ready, run:
+- User authentication and account management
+- Recipe sharing and posting
+- Recipe discovery through search and categories
+- Like, comment, and favorite recipes
+- User profile and activity tracking
+- Smooth navigation with React Navigation
+- State management with Redux
+- Server-side logic with Express and Node.Js
 
-```bash
-npm run reset-project
-```
+## Screenshots 📸
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<table>
+   <tr>
+    <td>Login Page</td>
+    <td>Register Page</td>
+  </tr>
+   <tr>
+    <td><img width="350px" src="./screenshot/login.png" border="0" alt="Login" /></td>
+    <td> <img width="350px" src="./screenshot/register.png" border="0"  alt="Register" /></td>
+  </tr>
+   <tr>
+    <td>Home Page</td>
+    <td>Detail Page</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./screenshot/home.png" border="0" alt="Login" /></td>
+    <td> <img width="350px" src="./screenshot/detail.png" border="0"  alt="Register" /></td>
+  </tr>
+<tr>
+    <td>Profile Page</td>
+    <td>Detail Page</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./screenshot/profile.png" border="0" alt="Profile" /></td>
+    <td> <img width="350px" src="./screenshot/edit_profile.png" border="0"  alt="Edit Profile" /></td>
+  </tr>
+   <tr>
+    <td>Add Recipe Page</td>
+    <td>Chat Page</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./screenshot/add_recipe.png" border="0" alt="Profile" /></td>
+    <td> <img width="350px" src="./screenshot/chat.png" border="0"  alt="Edit Profile" /></td>
+  </tr>
+   <tr>
+    <td>Search Page</td>
+    <td>My Recipe Page</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./screenshot/search.png" border="0" alt="Profile" /></td>
+    <td> <img width="350px" src="./screenshot/my_recipe.png" border="0"  alt="Edit Profile" /></td>
+  </tr>
+ <tr>
+    <td>Liked Recipe Page</td>
+    <td>Saved Page</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="./screenshot/liked.png" border="0" alt="Profile" /></td>
+    <td> <img width="350px" src="./screenshot/saved.png" border="0"  alt="Edit Profile" /></td>
+  </tr>
+</table>
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+## Getting Started 🏁🚀
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+To set up the Food Recipe App Mobile project locally, follow these steps:
 
-## Join the community
+1. Clone the backend repository from the provided link.
+2. Install the required dependencies using npm.
+3. Set up your database and update the configuration accordingly.
+4. Ensure you have Node.js and npm installed on your system.
+5. Start the server using the command `npm start`.
+6. Clone the frontend repository for the mobile app (if available).
+7. Install the required dependencies using npm or yarn.
+8. Run the app on an emulator or a physical device using `react-native run-android` or `react-native run-ios`.
 
-Join our community of developers creating universal apps.
+## Contributions 🤝🌟
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Contributions to the Food Recipe App Mobile project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request in the backend repository.
+
+## License 📜📝
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact 📞📧
+
+If you have any questions or inquiries regarding this project, feel free to contact me at [irhamnfrnda@gmail.com](mailto:irhamnfrnda@gmail.com).
+
+---
+
+Thank you for exploring the Food Recipe App Mobile portfolio. Enjoy cooking and discovering new recipes with the community! 🍽️👩‍🍳👨‍🍳
