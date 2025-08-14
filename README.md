@@ -22,7 +22,9 @@ The Food Recipe App Mobile project is built using the following technologies:
 
 ##App Demo
 
-https://github.com/user-attachments/assets/0be1426b-aa01-4df5-8667-4c80d1b40a27
+https://github.com/user-attachments/assets/6d78f0d8-c95b-4d9d-bc57-bf8b1f1153d2
+
+
 
 
 
