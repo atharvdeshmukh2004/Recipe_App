@@ -20,6 +20,13 @@ The Food Recipe App Mobile project is built using the following technologies:
 - Smooth navigation with expo Navigation
 
 
+##App Demo
+
+https://github.com/user-attachments/assets/0be1426b-aa01-4df5-8667-4c80d1b40a27
+
+
+
+
 
 ## Screenshots 📸
 
